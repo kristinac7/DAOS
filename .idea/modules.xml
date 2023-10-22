@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAOS.iml" filepath="$PROJECT_DIR$/DAOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion07/Lektion07.iml" filepath="$PROJECT_DIR$/Lektion07/Lektion07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion08/Lektion08.iml" filepath="$PROJECT_DIR$/Lektion08/Lektion08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion10-12_Karakterregistreringssystem/Lektion10-12_Karakterregistreringssystem.iml" filepath="$PROJECT_DIR$/Lektion10-12_Karakterregistreringssystem/Lektion10-12_Karakterregistreringssystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion14_Threads/Lektion14_Threads.iml" filepath="$PROJECT_DIR$/Lektion14_Threads/Lektion14_Threads.iml" />
+    </modules>
+  </component>
+</project>
