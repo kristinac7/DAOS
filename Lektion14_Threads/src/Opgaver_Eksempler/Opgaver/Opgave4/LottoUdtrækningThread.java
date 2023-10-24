@@ -17,6 +17,5 @@ public class LottoUdtrækningThread extends Thread {
         synchronized (korrekteTal) {
             korrekteTal[korrekte]++;
         }
-
     }
 }

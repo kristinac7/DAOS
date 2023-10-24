@@ -10,15 +10,14 @@ public class FindMaxThread extends Thread {
 
 
     public void run() {
-        int maxInRow = 0; // Initialiser maksimum for denne række til en meget lav værdi
+        int maxInRow = 0;
 
         for (int col : row) {
             if (col > maxInRow) {
-                maxInRow = col; // Opdater maksimum for denne række, hvis det aktuelle element er større
+                maxInRow = col;
             }
         }
-
-        max = maxInRow; // Opdater den maksimale værdi for denne tråd
+        max = maxInRow;
     }
 
     public int getMax() {
