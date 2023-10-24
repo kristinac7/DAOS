@@ -24,7 +24,6 @@ public class LottoUdtrækning {
         executor.shutdown();
 
         while (!executor.isTerminated()) {
-            // Vent på, at alle tråde er færdige
         }
 
         long slutTid = System.currentTimeMillis();
