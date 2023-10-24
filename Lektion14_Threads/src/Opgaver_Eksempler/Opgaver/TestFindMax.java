@@ -53,7 +53,7 @@ public class TestFindMax {
         }
 
         // Find det maksimale resultat fra trådene
-        int max = Integer.MIN_VALUE;
+        int max = 0;
         for (int i = 0; i < numThreads; i++) {
             int threadMax = threads[i].getMax();
             if (threadMax > max) {
