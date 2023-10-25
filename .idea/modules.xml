@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lektion08/Lektion08.iml" filepath="$PROJECT_DIR$/Lektion08/Lektion08.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion10-12_Karakterregistreringssystem/Lektion10-12_Karakterregistreringssystem.iml" filepath="$PROJECT_DIR$/Lektion10-12_Karakterregistreringssystem/Lektion10-12_Karakterregistreringssystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lektion14_Threads/Lektion14_Threads.iml" filepath="$PROJECT_DIR$/Lektion14_Threads/Lektion14_Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion15_Concurrency/Lektion15_Concurrency.iml" filepath="$PROJECT_DIR$/Lektion15_Concurrency/Lektion15_Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion15_Concurrency_Aflevering/Lektion15_Concurrency_Aflevering.iml" filepath="$PROJECT_DIR$/Lektion15_Concurrency_Aflevering/Lektion15_Concurrency_Aflevering.iml" />
     </modules>
   </component>
 </project>

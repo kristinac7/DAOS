@@ -60,7 +60,6 @@ public class TestFindMax {
                 max = threadMax;
             }
         }
-
         return max;
     }
 

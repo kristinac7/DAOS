@@ -7,10 +7,10 @@ import java.util.concurrent.Executors;
 public class LottoUdtrækning {
     public static void main(String[] args) {
         int antalLottoRækker = 10000000;
-        int numThreads = 4;
+        int numThreads = 2;
 
         ArrayList<Lottoraek> lottoRækker = new ArrayList<>();
-        int[] korrekteTal = new int[8]; // 1-7
+        int[] korrekteTal = new int[8];
 
         ExecutorService executor = Executors.newFixedThreadPool(numThreads);
 
