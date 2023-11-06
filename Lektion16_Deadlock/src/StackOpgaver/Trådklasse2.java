@@ -12,6 +12,7 @@ public class Trådklasse2 extends Thread {
         for (int i = 1; i <= 4; i++) {
             synchronized (stack) {
                 while (stack.is_empty()) {
+                    System.out.println("Venter: ");
                     try {
                         stack.wait();
                     } catch (InterruptedException e) {
